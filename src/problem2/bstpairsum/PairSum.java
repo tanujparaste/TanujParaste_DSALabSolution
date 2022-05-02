@@ -7,7 +7,6 @@ import java.util.Stack;
 
 public class PairSum {
 	Node root;
-	static int count;
 
 	// custom inner class with generic to store the pair (x,y)
 	static class Pair<DT1, DT2> {
